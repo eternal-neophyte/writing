@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7d9641c57a3f9653","x":-100,"y":-331,"width":400,"height":400,"type":"file","file":"В приливном захвате/Структура/Сон главного героя.md"},
+		{"id":"f4768bb8bb59fd56","x":520,"y":-331,"width":400,"height":400,"type":"file","file":"В приливном захвате/Структура/Пробуждение главного героя.md"},
+		{"id":"8adff36c323688aa","x":1120,"y":-331,"width":400,"height":400,"type":"file","file":"В приливном захвате/Структура/Экспозиция через голограммы.md"}
+	],
+	"edges":[
+		{"id":"ab6c42650222e42f","fromNode":"7d9641c57a3f9653","fromSide":"right","toNode":"f4768bb8bb59fd56","toSide":"left"},
+		{"id":"714f786a808fe47e","fromNode":"f4768bb8bb59fd56","fromSide":"right","toNode":"8adff36c323688aa","toSide":"left"}
+	]
+}
