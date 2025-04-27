@@ -19,9 +19,10 @@
 		{"id":"61c18a4dda5e82af","type":"file","file":"В приливном захвате/Сюжет/15. Обустройство базы.md","x":4160,"y":-760,"width":400,"height":400},
 		{"id":"289c376bc0fae4b8","type":"file","file":"В приливном захвате/Сюжет/5. Корабль (Экспозиция).md","x":2080,"y":-1760,"width":400,"height":400,"color":"6"},
 		{"id":"33b0ee2539d742bc","type":"file","file":"В приливном захвате/Сюжет/14. Высадка на Пактол.md","x":4860,"y":-760,"width":400,"height":400},
-		{"id":"5f2f8179a8732618","x":2760,"y":-480,"width":400,"height":400,"type":"file","file":"В приливном захвате/Сюжет/17. Демиург (Внешнее описание).md"},
-		{"id":"126f82fd3ca1eb18","type":"file","file":"В приливном захвате/Сюжет/18. Решения брата и сестры.md","x":2080,"y":-480,"width":400,"height":400},
-		{"id":"decbb812715b00d4","type":"file","file":"В приливном захвате/Сюжет/16. Сбор Совета Способных.md","x":3440,"y":-480,"width":400,"height":400}
+		{"id":"decbb812715b00d4","type":"file","file":"В приливном захвате/Сюжет/16. Сбор Совета Способных.md","x":3440,"y":-480,"width":400,"height":400},
+		{"id":"5f2f8179a8732618","type":"file","file":"В приливном захвате/Сюжет/17. Демиург (Внешнее описание).md","x":2520,"y":-480,"width":400,"height":400},
+		{"id":"7f0f25b913a7c607","x":1120,"y":-480,"width":400,"height":400,"type":"file","file":"В приливном захвате/Сюжет/19. Контакт.md"},
+		{"id":"126f82fd3ca1eb18","type":"file","file":"В приливном захвате/Сюжет/18. Решения брата и сестры.md","x":1840,"y":-480,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"fa664a40462f96d4","fromNode":"9af4b5e37b16eed2","fromSide":"bottom","toNode":"5c1be99db11f33e0","toSide":"top"},
@@ -45,6 +46,7 @@
 		{"id":"660c54459b0fb30c","fromNode":"33b0ee2539d742bc","fromSide":"left","toNode":"61c18a4dda5e82af","toSide":"right"},
 		{"id":"e391704d893dc8ed","fromNode":"61c18a4dda5e82af","fromSide":"left","toNode":"decbb812715b00d4","toSide":"right"},
 		{"id":"b70fa48018e6ac50","fromNode":"decbb812715b00d4","fromSide":"left","toNode":"5f2f8179a8732618","toSide":"right","label":"Брат и сестра \nвыходят из сада"},
-		{"id":"ae5329cedde13080","fromNode":"5f2f8179a8732618","fromSide":"left","toNode":"126f82fd3ca1eb18","toSide":"right"}
+		{"id":"ae5329cedde13080","fromNode":"5f2f8179a8732618","fromSide":"left","toNode":"126f82fd3ca1eb18","toSide":"right"},
+		{"id":"97160247882359d7","fromNode":"126f82fd3ca1eb18","fromSide":"left","toNode":"7f0f25b913a7c607","toSide":"right"}
 	]
 }
