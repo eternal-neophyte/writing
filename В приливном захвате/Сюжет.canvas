@@ -24,11 +24,12 @@
 		{"id":"c2230cb6dabb48f8","type":"file","file":"В приливном захвате/Сюжет/13. Наблюдение Пактола и материнской звезды.md","x":5600,"y":-800,"width":400,"height":400},
 		{"id":"74ad017907d01d2c","type":"file","file":"В приливном захвате/Сюжет/22. Лечение Олега.md","x":-571,"y":280,"width":400,"height":400},
 		{"id":"873f6694d46e65d2","type":"file","file":"В приливном захвате/Сюжет/23. Сражение (Конец).md","x":149,"y":280,"width":398,"height":400},
-		{"id":"c96d6920ea854675","type":"file","file":"В приливном захвате/Сюжет/24. Преображение Олега. Плен и освобождение.md","x":829,"y":280,"width":400,"height":400},
+		{"id":"c96d6920ea854675","type":"file","file":"В приливном захвате/Сюжет/24. 15 часов спустя.md","x":829,"y":280,"width":400,"height":400},
 		{"id":"c039a1048bae6815","type":"file","file":"В приливном захвате/Сюжет/21. Сражение (Начало).md","x":-1224,"y":280,"width":400,"height":400},
 		{"id":"75c92c17a846d8a3","type":"file","file":"В приливном захвате/Сюжет/20. Неуклюжая горничная (Флешбэк).md","x":-1224,"y":-800,"width":400,"height":400},
-		{"id":"8dbf42985388afd4","x":4760,"y":-800,"width":400,"height":400,"type":"file","file":"В приливном захвате/Сюжет/13.1. Терминалы варп-связи (Экспозиция).md"},
-		{"id":"33b0ee2539d742bc","type":"file","file":"В приливном захвате/Сюжет/14. Высадка на Пактол.md","x":4120,"y":-800,"width":400,"height":400}
+		{"id":"8dbf42985388afd4","type":"file","file":"В приливном захвате/Сюжет/13.1. Терминалы варп-связи (Экспозиция).md","x":4760,"y":-800,"width":400,"height":400},
+		{"id":"33b0ee2539d742bc","type":"file","file":"В приливном захвате/Сюжет/14. Высадка на Пактол.md","x":4120,"y":-800,"width":400,"height":400},
+		{"id":"06f952f3912289a8","x":1600,"y":280,"width":400,"height":400,"type":"file","file":"В приливном захвате/Сюжет/25. Спор о сути происходящего.md"}
 	],
 	"edges":[
 		{"id":"fa664a40462f96d4","fromNode":"9af4b5e37b16eed2","fromSide":"bottom","toNode":"5c1be99db11f33e0","toSide":"top"},
@@ -59,6 +60,7 @@
 		{"id":"c2081bc6a6fe1ef0","fromNode":"74ad017907d01d2c","fromSide":"right","toNode":"873f6694d46e65d2","toSide":"left"},
 		{"id":"585cada0149a72d5","fromNode":"873f6694d46e65d2","fromSide":"right","toNode":"c96d6920ea854675","toSide":"left"},
 		{"id":"f6b60dcd7d9b7668","fromNode":"c2230cb6dabb48f8","fromSide":"left","toNode":"8dbf42985388afd4","toSide":"right","label":"-Может, нам \nсвязаться\nс Землей?\n-Не получится..."},
-		{"id":"4caaf3bf270ccfd6","fromNode":"8dbf42985388afd4","fromSide":"left","toNode":"33b0ee2539d742bc","toSide":"right"}
+		{"id":"4caaf3bf270ccfd6","fromNode":"8dbf42985388afd4","fromSide":"left","toNode":"33b0ee2539d742bc","toSide":"right"},
+		{"id":"d4de2c44e81e0037","fromNode":"c96d6920ea854675","fromSide":"right","toNode":"06f952f3912289a8","toSide":"left"}
 	]
 }
