@@ -33,10 +33,12 @@
 		{"id":"1e09c79f90f94d7d","type":"file","file":"В приливном захвате/Сюжет/11. Пробуждение Олега от анабиоза.md","x":6400,"y":-2240,"width":400,"height":400,"color":"6"},
 		{"id":"9add0e0f39e7c94c","type":"file","file":"В приливном захвате/Сюжет/12. Планета Пактол (Экспозиция).md","x":6400,"y":-800,"width":400,"height":400},
 		{"id":"c2230cb6dabb48f8","type":"file","file":"В приливном захвате/Сюжет/13. Наблюдение Пактола и материнской звезды.md","x":5800,"y":-800,"width":400,"height":400},
-		{"id":"c31cbe7801506e6d","type":"file","file":"В приливном захвате/Сюжет/30. Время на Пактоле (Экспозиция).md","x":5280,"y":640,"width":400,"height":400},
-		{"id":"5f49526d2d8a3fe5","type":"file","file":"В приливном захвате/Сюжет/Недоразумение.md","x":6000,"y":640,"width":400,"height":400},
 		{"id":"ca55b7296c702fc7","type":"file","file":"В приливном захвате/Сюжет/28. Что делать дальше.md","x":3800,"y":640,"width":400,"height":400},
-		{"id":"4452d2d9beb45bd3","type":"file","file":"В приливном захвате/Сюжет/29. Совет Способных (Экспозиция).md","x":4440,"y":640,"width":400,"height":400}
+		{"id":"4452d2d9beb45bd3","type":"file","file":"В приливном захвате/Сюжет/29. Совет Способных (Экспозиция).md","x":4440,"y":640,"width":400,"height":400},
+		{"id":"5f49526d2d8a3fe5","type":"file","file":"В приливном захвате/Сюжет/Недоразумение.md","x":5260,"y":640,"width":400,"height":400},
+		{"id":"c31cbe7801506e6d","type":"file","file":"В приливном захвате/Сущности/Время на Пактоле (Экспозиция - после радиоуг. анализа).md","x":5360,"y":1640,"width":400,"height":400},
+		{"id":"39ed2900ae809659","type":"file","file":"В приливном захвате/Сюжет/История Пактола (Экспозиция).md","x":6000,"y":1200,"width":400,"height":400},
+		{"id":"861abc86b30e4880","type":"file","file":"В приливном захвате/Сюжет/Подготовка Олега к экзамену.md","x":6640,"y":1200,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"fa664a40462f96d4","fromNode":"9af4b5e37b16eed2","fromSide":"bottom","toNode":"5c1be99db11f33e0","toSide":"top"},
@@ -73,7 +75,7 @@
 		{"id":"843a99e2a5cdfd1a","fromNode":"ebe1f41d5c11d6ef","fromSide":"right","toNode":"c96d6920ea854675","toSide":"left"},
 		{"id":"8cecce1db4032d4c","fromNode":"06f952f3912289a8","fromSide":"right","toNode":"ca55b7296c702fc7","toSide":"left","label":"Нужен \nрадиоуглеродный\nанализ \n\"Демиурга\"..."},
 		{"id":"c65c71708b5e07af","fromNode":"ca55b7296c702fc7","fromSide":"right","toNode":"4452d2d9beb45bd3","toSide":"left"},
-		{"id":"5563edb993724770","fromNode":"4452d2d9beb45bd3","fromSide":"right","toNode":"c31cbe7801506e6d","toSide":"left","label":"-Великий цикл?\nЧто это?"},
-		{"id":"5e25e107e37dcd6f","fromNode":"c31cbe7801506e6d","fromSide":"right","toNode":"5f49526d2d8a3fe5","toSide":"left"}
+		{"id":"5e25e107e37dcd6f","fromNode":"4452d2d9beb45bd3","fromSide":"right","toNode":"5f49526d2d8a3fe5","toSide":"left"},
+		{"id":"3058ccc5b7f90f3d","fromNode":"861abc86b30e4880","fromSide":"left","toNode":"39ed2900ae809659","toSide":"right"}
 	]
 }
