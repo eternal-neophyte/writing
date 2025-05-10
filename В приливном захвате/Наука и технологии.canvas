@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"fa89db9d7c35cd53","type":"file","file":"В приливном захвате/Наука и технологии/Тензион.md","x":-80,"y":-840,"width":400,"height":400},
+		{"id":"063f57e6f3305573","type":"file","file":"В приливном захвате/Наука и технологии/Квантовый семплер.md","x":320,"y":-160,"width":400,"height":400},
+		{"id":"6e203df25cab08c3","type":"file","file":"В приливном захвате/Наука и технологии/Тензионный НАН-двигатель.md","x":-80,"y":520,"width":400,"height":400},
+		{"id":"81c10bedb84ed267","type":"file","file":"В приливном захвате/Наука и технологии/Ксорум.md","x":720,"y":520,"width":400,"height":400},
+		{"id":"9fae451c30d8c8a4","type":"file","file":"В приливном захвате/Наука и технологии/Тензионный эфир.md","x":-560,"y":-160,"width":400,"height":400},
+		{"id":"368d5ccbe103105e","type":"file","file":"В приливном захвате/Наука и технологии/Варп-связь.md","x":-880,"y":520,"width":400,"height":400},
+		{"id":"52b02da188a50950","x":1120,"y":-160,"width":400,"height":400,"type":"file","file":"В приливном захвате/Наука и технологии/Фотонный кристалл.md"}
+	],
+	"edges":[
+		{"id":"1dd856c48d27faa0","fromNode":"fa89db9d7c35cd53","fromSide":"bottom","toNode":"6e203df25cab08c3","toSide":"top","label":"Составляет \nстенки кассет"},
+		{"id":"a744a7c9f2708aa8","fromNode":"fa89db9d7c35cd53","fromSide":"bottom","toNode":"063f57e6f3305573","toSide":"top","label":"Используется"},
+		{"id":"d94299d66f5bcc0d","fromNode":"063f57e6f3305573","fromSide":"bottom","toNode":"6e203df25cab08c3","toSide":"top","label":"Генерирует\nнейтроны и\nантинейтроны"},
+		{"id":"c0c1ed70dfdbd6e4","fromNode":"063f57e6f3305573","fromSide":"bottom","toNode":"81c10bedb84ed267","toSide":"top","label":"Перестраивает\nматерию"},
+		{"id":"4432826c26ed0ba4","fromNode":"fa89db9d7c35cd53","fromSide":"bottom","toNode":"9fae451c30d8c8a4","toSide":"top","label":"Входит в состав"},
+		{"id":"64e0b0a0323136c0","fromNode":"9fae451c30d8c8a4","fromSide":"bottom","toNode":"368d5ccbe103105e","toSide":"top","label":"Обеспечивает"},
+		{"id":"4afc5dfd4acdecbd","fromNode":"52b02da188a50950","fromSide":"bottom","toNode":"81c10bedb84ed267","toSide":"top","label":"Меняет \nоптические\nсвойства"}
+	]
+}
