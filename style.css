@@ -1,4 +1,4 @@
-.custom-button {
+bu {
   display: inline-block;
   padding: 10px 20px;
   background-color: #4CAF50;
@@ -9,6 +9,6 @@
   transition: background-color 0.3s ease;
 }
 
-.custom-button:hover {
+bu {
   background-color: #3e8e41;
 }
